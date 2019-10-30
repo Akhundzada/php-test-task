@@ -9,7 +9,7 @@ You need to create a system that is allowing to update (edit) any json-document 
 |                  |                                                         |
 |------------------|---------------------------------------------------------|
 | Estimation       | up to 20 hours                                          |
-| Framework        | Phalcon, Laravel, Symfony or components from any of it with your PSR-* core.
+| Framework        | Phalcon, Laravel, Symfony, Yii2 or any other framework and/or components from any of it with your PSR-* core.
 | Other packages   | any                                                     |
 | PHP version      | >=7.3                                                   |
 | Db               | any relational                                          |
