@@ -358,7 +358,7 @@ Requirements:
 
 1. Each time a user logs in, he receives a new token.
 2. If the user sends any request with a nonexistent token or with an expired token, then the response with the code 401 should be returned.
-3. An anonymous person can see a list of published documents, as well as upload a specific published document.
+3. An anonymous person can see a list of published documents, as well as download a specific published document.
 4. An anonymous person will receive an error 401 when trying to access PATCH and POST requests.
 5. Only an authorized user can create a document.
 6. Only the user who created it can edit and publish the document.
